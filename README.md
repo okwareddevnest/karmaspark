@@ -1,4 +1,5 @@
 # KarmaSpark - Agentic AI Bot for OpenChat
+![karmaspark-logo](https://github.com/user-attachments/assets/54dfeed9-d806-4180-bf4a-f17563833cd7)
 
 KarmaSpark is an intelligent assistant bot for OpenChat built on the OpenChat Bot SDK. It provides agentic AI capabilities, memory, planning, and other advanced features to enhance your chat experience.
 
